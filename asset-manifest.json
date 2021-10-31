@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creditproject/static/css/main.19ed8863.chunk.css",
-    "main.js": "/creditproject/static/js/main.b1b003ec.chunk.js",
-    "main.js.map": "/creditproject/static/js/main.b1b003ec.chunk.js.map",
+    "main.js": "/creditproject/static/js/main.f77bede9.chunk.js",
+    "main.js.map": "/creditproject/static/js/main.f77bede9.chunk.js.map",
     "runtime-main.js": "/creditproject/static/js/runtime-main.53b881a7.js",
     "runtime-main.js.map": "/creditproject/static/js/runtime-main.53b881a7.js.map",
     "static/css/2.cb2ba4e2.chunk.css": "/creditproject/static/css/2.cb2ba4e2.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.cb2ba4e2.chunk.css",
     "static/js/2.a85f5e92.chunk.js",
     "static/css/main.19ed8863.chunk.css",
-    "static/js/main.b1b003ec.chunk.js"
+    "static/js/main.f77bede9.chunk.js"
   ]
 }
